@@ -1,0 +1,93 @@
+{
+	"objects": [
+    {
+        "title": "Registration",
+        "speaker": "",
+        "time": null
+    },
+    {
+        "title": "Welcome!",
+        "speaker": "Dylan Schiemann",
+        "time": "9:50 AM"
+    },
+    {
+        "title": "EmbedJS: Ship no useless byte",
+        "speaker": "Wolfram Kriesing",
+        "time": "10:10 AM"
+    },
+    {
+        "title": "The new FT Web App",
+        "speaker": "Andrew Betts",
+        "time": "10:55 AM"
+    },
+    {
+        "title": "jQuery and the Missing Mobile Link",
+        "speaker": "Mark Drew",
+        "time": "11:45 AM"
+    },
+    {
+        "title": "Lunch",
+        "speaker": "Enjoy",
+        "time": "12:20 PM"
+    },
+    {
+        "title": "Dive into HP Enyp",
+        "speaker": "Shane O'Sullivan",
+        "time": "13:20 PM"
+    },
+    {
+        "title": "Debugging Mobile Web Apps Remotely",
+        "speaker": "James Thomas",
+        "time": "13:50 PM"
+    },
+    {
+        "title": "Introduction to Wink Toolkit",
+        "speaker": "Jerome Giraud",
+        "time": "14:25 PM"
+    },
+    {
+        "title": "New Development tools for the mobile dev",
+        "speaker": "Nikolai Onken",
+        "time": "14:50 PM"
+    },
+    {
+        "title": "Tribulations of a Web-based PlayBook app",
+        "speaker": "Laurent Hasson",
+        "time": "15:35 PM"
+    },
+    {
+        "title": "Tea and Coffee",
+        "speaker": "Enjoy",
+        "time": "16:20 PM"
+    },
+    {
+        "title": "HTML5 and CSS3: Exploring Mobile Possibilities",
+        "speaker": "Robert Nyman",
+        "time": "14:30 PM"
+    },
+    {
+        "title": "Dojo Mobile",
+        "speaker": "Dylan Schiemann",
+        "time": "17:20 PM"
+    },
+    {
+        "title": "Measuring Mobile Performance",
+        "speaker": "Stephen Thair",
+        "time": "17:55 PM"
+    },
+    {
+        "title": "HTML5(app) Test Suite: for a higher Quality Mobile Web",
+        "speaker": "Wolfram Kriesing",
+        "time": "18:30 PM"
+    },
+    {
+        "title": "Final Thoughts",
+        "speaker": "Dylan Schiemann",
+        "time": "19:00 PM"
+    },
+    {
+        "title": "Party, Beer and Dinner",
+        "speaker": "Enjoy",
+        "time": "19:05 PM"
+    }]
+}
